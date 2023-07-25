@@ -24,6 +24,7 @@ const upload = multer({storage})
 
 app.get("/test",(req, res) =>{
   res.json("I am live");
+  console.log("I am connected!");
 })
 
 app.post('api/upload', upload.single('file'), function (req, res) {
