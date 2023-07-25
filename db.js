@@ -3,7 +3,7 @@
 // export const db = mysql.createConnection({
 //     host: 'localhost',
 //     user: 'root',
-//     password: 'PASSWORD@Rohan#2002',
+//     password: 
 //     database: 'blog'
 // })
 
